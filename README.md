@@ -1,3 +1,6 @@
+
+<img width="1600" height="900" alt="Captura de tela 2025-11-28 183644" src="https://github.com/user-attachments/assets/2ee75030-da08-4efd-90c4-3be31d41ab9f" />
+
 # 🌎 Three.js: Modelo 3D Interativo da Terra
 
 Projeto avançado desenvolvido com Three.js para renderizar um modelo 3D detalhado do planeta Terra, composto por múltiplas malhas (meshes) e texturas que simulam a complexidade visual do planeta real.
